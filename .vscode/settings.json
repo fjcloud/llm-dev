@@ -1,3 +1,10 @@
 {
-  "twinny.ollamaHostname": "ollama.llm"
+  "models": [
+    {
+      "title": "Ollama",
+      "provider": "ollama",
+      "model": "mistral-nemo",
+      "apiBase": "http://ollama.llm:11434"
+    }
+  ]
 }
