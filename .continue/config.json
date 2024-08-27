@@ -80,7 +80,7 @@
   ],
   "embeddingsProvider": {
     "provider": "ollama",
-    "model": "nomic-embed-text"
+    "model": "nomic-embed-text",
     "apiBase": "http://ollama.llm:11434"
   }
 }
